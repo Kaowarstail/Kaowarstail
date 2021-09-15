@@ -1,4 +1,7 @@
-# <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
+# Hello there
+<div align="center">
+<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
+</div>
 
 **Je suis Victor Dané, étudiant en dévelopement web** 😄  
 Je suis plutôt nouveau sur la plateforme 
