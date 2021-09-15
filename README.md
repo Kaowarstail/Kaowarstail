@@ -1,4 +1,4 @@
-# Hello there
+# Hello there 👋
 <div align="center">
 <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
 </div>
