@@ -1,7 +1,9 @@
+# <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
 <div align="center">
-<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
+Je suis Victor Dané, étudiant en dévelopement web
 </div>
-## Hello there 👋
+Je suis nouveau sur <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="Github logo" width="150" height="150" />😄 
+
 
 <!--
 **Kaowarstail/Kaowarstail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
