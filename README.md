@@ -2,7 +2,7 @@
 
 **Je suis Victor Dané, étudiant en dévelopement web** 😄  
 Je suis plutôt nouveau sur la plateforme !
-<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="logo github" width="150" height="150" />  
+<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="logo github" width="20" height="20" />  
 J'ai plein de passions :
 * le karatém avec plus de 15 ans de pratique
 * 
