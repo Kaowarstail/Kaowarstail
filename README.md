@@ -6,7 +6,7 @@ Je suis plutôt nouveau sur la plateforme
 J'ai plein de passions comme :
 * le karaté avec plus de 15 ans de pratique 🥋
 * l'aide de mes pairs 👌
-* et bien évidement écouter de la musique 🎧 🎶
+* et bien évidement écouter de la musique 🎧 🎶 (dernièrement j'aime beaucoup [怪物](https://youtu.be/dy90tA3TT1c) de YOASOBI)
 
 
 
