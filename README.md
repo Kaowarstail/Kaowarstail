@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
+</div>
+## Hello there 👋
 
 <!--
 **Kaowarstail/Kaowarstail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
