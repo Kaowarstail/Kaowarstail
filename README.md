@@ -1,8 +1,12 @@
 # <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
-<div align="center">
-Je suis Victor Dané, étudiant en dévelopement web
-</div>
-Je suis nouveau sur <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="Github logo" width="150" height="150" />😄 
+
+**Je suis Victor Dané, étudiant en dévelopement web** 😄  
+Je suis plutôt nouveau sur la plateforme !  
+<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="logo github" width="150" height="150" />  
+J'ai plein de passions :
+* le karatém avec plus de 15 ans de pratique
+* 
+
 
 
 <!--
