@@ -3,26 +3,74 @@
 <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
 </div>
 
-**Je suis Victor Dané, étudiant en dévelopement web** 😄  
-<img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/github_logo.gif" alt="logo github" width="15" height="15" /> !  
-J'ai plein de passions comme :
-* le karaté avec plus de 16 ans de pratique 🥋
-* l'aide de mes pairs 👌
-* et bien évidement écouter de la musiquem notamment pour coder de bonne humeur 🎧 🎶 (dernièrement j'aime beaucoup [怪物](https://youtu.be/dy90tA3TT1c) de YOASOBI)
+# Victor Dané
+## Datascience
+### #Go #REST #IA
 
+**DEVELOPPEUR FULLSTACK**  
+*A la recherche d'une alternance*  
+(3 semaines entreprise / 1 semaine école)
 
+### COORDONNÉES
+- 92500 Rueil Malmaison
+- 24 ans
+- victor.dane92@gmail.com
+- (+33)6 37 90 32 12
+- LinkedIn: [/victor-dané](https://www.linkedin.com/in/victor-dané)
+- Github: [/Kaowarstail](https://github.com/Kaowarstail)
 
-<!--
-**Kaowarstail/Kaowarstail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FORMATION
+- **2023-2025 — Mastère Apps & Cybersecurity,**  
+  EEMI - Paris  
+  *Cybersécurité, Modélisation (Data, Infrastructure), Quality Assurance, IA, Pen tests, Front/Back end*
 
-Here are some ideas to get you started:
+- **2022-2023 — Bachelor Développement Web,**  
+  EEMI - Paris  
+  *Algorithmie, Go, Docker, iOS/Android, PHP, React, Datascience*  
+  *Projets réalisés :*  
+  - Site de gestion interne d'un parc de location de voitures ainsi que des chauffeurs.
+  - Création d'un site vitrine au sein d'une équipe pluridisciplinaire.
+  - Audit au sein d'une équipe pluridisciplinaire pour La Fondation Charles de Gaulle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **2017-2021 — Cycle d’ingénieur en informatique à l'EPITA,**  
+  Kremlin Bicêtre  
+  *Projets réalisés :*  
+  - Jeu vidéo, développé sous Unity en C#
+  - Application de reconnaissance optique de caractères en C
+  - Création d'un shell en C
+
+### EXPÉRIENCE PROFESSIONNELLE
+- **Développeur Fullstack (Alternance) — OSP, Neuilly sur seine**  
+  *OCTOBRE 2022 - SEPTEMBRE 2023*  
+  *Créer et améliorer les fonctionnalités des outils pour les différents services de l'entreprise. (Laravel / Vuejs).*  
+  *Design divers produits/document interne.*
+
+- **Auxiliaire d’été — BNP Paribas, Nanterre**  
+  *AOÛT 2018*  
+  *Gestion des saisie de factures.*  
+  *Archivage de documents.*
+
+- **Frimousse — castings**  
+  *Shooting photos, publicité TV et presse.*
+
+### HARD SKILLS
+- C, C#
+- PHP, Sass, Symfony
+- Docker
+- Python
+- MariaDB, Go
+- React
+- Javascript
+- HTML, CSS, Laravel
+- Vue.js
+- Tailwind
+
+### AUTRES COMPÉTENCES
+- Anglais C1 (TOEIC : 950)
+- Allemand A2
+- Design Thinker
+- Permis B
+
+### CENTRE D’INTÉRETS
+- Karaté : 17 ans de pratique (ceinture marron).
+
