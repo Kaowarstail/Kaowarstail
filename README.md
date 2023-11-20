@@ -64,6 +64,7 @@
 - HTML, CSS, Laravel
 - Vue.js
 - Tailwind
+- Node.js
 
 ### AUTRES COMPÉTENCES
 - Anglais C1 (TOEIC : 950)
