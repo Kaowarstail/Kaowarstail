@@ -2,7 +2,9 @@
 
 ## 💻 Développeur Full Stack | Architecte Logiciel | Passionné Tech
 
-![Banner](https://via.placeholder.com/1500x300/0553A1/ffffff?text=Victor+Dan%C3%A9+-+D%C3%A9veloppeur+Full+Stack)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0553A1&height=200&section=header&text=Victor%20Dané&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Architecte%20Logiciel&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-dané)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.dane92@gmail.com)
