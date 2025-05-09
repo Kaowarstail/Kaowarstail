@@ -8,23 +8,43 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-dané)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.dane92@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaowarstail)
 
 > _Développeur Full Stack avec expérience en architecture logicielle et méthodologies agiles, passionné par la création de solutions innovantes et performantes._
 
 ## 🛠️ Compétences Techniques
 
-```javascript
-const victorSkills = {
-  languages: ["JavaScript", "TypeScript", "Go", "Python", "PHP", "C", "C#"],
-  frontend: ["Vue.js", "React", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
-  backend: ["Node.js", "Express.js", "Symfony", "Laravel", "REST API", "WebSockets"],
-  databases: ["MariaDB", "PostgreSQL", "MySQL"],
-  devOps: ["Docker", "Kubernetes", "CI/CD", "Linux", "Git"],
-  methodologies: ["Agile", "Scrum Master", "Lean Management"]
-};
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
 ## 🚀 Projets Phares
+
+### 🔹 OnlyFlick - Plateforme de contenu premium (En cours)
+- Application complète avec backend Go et frontend Flutter (Web + Mobile)
+- Système d'abonnement premium et gestion de paiement sécurisé
+- Architecture full-stack avec API REST, tests unitaires et tests d'intégration
+- CI/CD complet et mise en production
+- Fonctionnalités avancées: notifications push, temps réel, tableau de bord analytique
 
 ### 🔹 Système temps réel de gestion d'aide
 - Développement d'une solution temps réel avec Node-RED et Vue.js
@@ -35,9 +55,6 @@ const victorSkills = {
 - Application web avec Express.js, Vue.js et MySQL
 - Optimisation des processus de travail en équipe
 - Visualisation intuitive des flux de travail
-
-### 🔹 [En cours] Plus de projets à venir
-- Je travaille constamment sur de nouveaux projets - restez à l'écoute!
 
 ## 💼 Expérience Professionnelle
 
