@@ -1,11 +1,11 @@
 # 👋 Bonjour, je suis Victor Dané
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Full+Stack;Architecte+Logiciel;Passionné+Tech&font=Fira%20Code&center=true&width=440&height=45&color=0553A1&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Full+Stack;Architecte+Logiciel;QA+CI/CD&font=Fira%20Code&center=true&width=440&height=45&color=0553A1&vCenter=true&size=22">
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0553A1&height=200&section=header&text=Victor%20Dané&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Architecte%20Logiciel&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0553A1&height=200&section=header&text=Victor%20Dané&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -35,9 +35,22 @@
   <summary>Langages & Frameworks</summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,python,php,c,cs" />
+    <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a href="#" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+    <a href="#" title="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+    <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    <a href="#" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+    <a href="#" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+    <a href="#" title="C#"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
     <br>
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,flutter,nodejs,symfony,laravel" />
+    <a href="#" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+    <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+    <a href="#" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+    <a href="#" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
+    <a href="#" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+    <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+    <a href="#" title="Symfony"><img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" /></a>
+    <a href="#" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
   </p>
 </details>
 
@@ -45,7 +58,12 @@
   <summary>DevOps & Outils</summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,vscode,bash" />
+    <a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+    <a href="#" title="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+    <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+    <a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+    <a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+    <a href="#" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
   </p>
 </details>
 
@@ -53,7 +71,9 @@
   <summary>Bases de données</summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+    <a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+    <a href="#" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+    <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
   </p>
 </details>
 
@@ -62,7 +82,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">OnlyFlick - Plateforme de contenu premium</h3>
+        <h3 align="center">OnlyFlick - Plateforme de contenu premium (En cours)</h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://dummyimage.com/600x400/0553A1/ffffff&text=OnlyFlick" width="100%" alt="OnlyFlick Project"/>
@@ -75,10 +95,10 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Andon</h3>
+        <h3 align="center">Systeme de chaine d'aide</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://dummyimage.com/600x400/4CAF50/ffffff&text=Système+temps+réel" width="100%" alt="Real-time System Project"/>
+            <img src="https://dummyimage.com/600x400/4CAF50/ffffff&text=Andon" width="100%" alt="Real-time System Project"/>
           </a>
           <p align="center">
             <img src="https://img.shields.io/badge/Node_RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white"/>
@@ -93,7 +113,7 @@
         <h3 align="center">Solution Kanban pour environnement Lean</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://dummyimage.com/600x400/FF5722/ffffff&text=Kanban+Lean" width="100%" alt="Kanban Project"/>
+            <img src="https://dummyimage.com/600x400/FF5722/ffffff&text=Kanban+Print" width="100%" alt="Kanban Project"/>
           </a>
           <p align="center">
             <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
