@@ -75,7 +75,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Système temps réel de gestion d'aide</h3>
+        <h3 align="center">Andon</h3>
         <p align="center">
           <a href="#" target="_blank">
             <img src="https://dummyimage.com/600x400/4CAF50/ffffff&text=Système+temps+réel" width="100%" alt="Real-time System Project"/>
@@ -84,7 +84,7 @@
             <img src="https://img.shields.io/badge/Node_RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white"/>
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
           </p>
-          <p align="center">Développement d'une solution temps réel avec Node-RED et Vue.js, utilisant WebSockets pour une communication instantanée</p>
+          <p align="center">Développement d'une solution temps réel avec Node-RED et Vue.js, utilisant WebSockets pour une communication instantanée pour la gestion d'une chaine d'aide</p>
         </p>
       </td>
     </tr>
