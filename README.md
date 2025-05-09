@@ -212,7 +212,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/karate.png"/>
+        <img src="https://img.shields.io/badge/-Karaté-E30613?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzUwLjggMzIyLjVzLTI4LjctNi41LTYxLjgtMjguMWwtNTcuNy01Ny4zIDQwLjMtODQuOSA3NS4yIDQwLjlMMjY5IDI3My44YzIyLjYgMTcuNyA0My44IDMwLjUgNDMuOCAzMC41bDM4LTE4LjItLjMgNTQuM2wtLjEtMTcuOVptLTI0Mi40LTM3LjZoNzcuOGwtNDkuOCA0MS42Yy0xOC4xIDE4LTE2LjUgNC44LTI4IDQuOFoiLz48L3N2Zz4=&logoColor=white"/>
         <br />
         <b>Karaté</b>
         <br />
@@ -221,7 +221,7 @@
         (ceinture marron)
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/discord-logo.png"/>
+        <img src="https://img.shields.io/badge/-Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
         <br />
         <b>Gaming</b>
         <br />
@@ -230,7 +230,7 @@
         de joueurs en ligne
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/cards.png"/>
+        <img src="https://img.shields.io/badge/-Yu--Gi--Oh-7C4DFF?style=for-the-badge&logo=konami&logoColor=white"/>
         <br />
         <b>Yu-Gi-Oh</b>
         <br />
@@ -243,16 +243,14 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0553A1&height=120&section=footer" width="100%"/>
 </div>
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Notepad animation"/>  
-  <br><br>
   <samp>
-    <strong>N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou question!</strong>
+    <strong>© 2025 Victor Dané - Développeur Full Stack</strong>
     <br>
-    <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino game animation" width="70%"/>
+    <i>N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou question!</i>
   </samp>
 </p>
