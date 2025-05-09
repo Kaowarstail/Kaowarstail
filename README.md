@@ -191,11 +191,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaowarstail&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaowarstail&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Kaowarstail&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaowarstail&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ## 🌐 Langues
