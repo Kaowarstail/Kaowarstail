@@ -54,7 +54,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>DevOps & Outils</summary>
   <br>
   <p align="center">
@@ -67,7 +67,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>Bases de données</summary>
   <br>
   <p align="center">
