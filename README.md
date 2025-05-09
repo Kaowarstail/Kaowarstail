@@ -190,14 +190,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaowarstail&layout=compact&theme=radical" alt="Top Langages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaowarstail&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaowarstail&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
 ## 🌐 Langues
 
 <div align="center">
@@ -212,31 +204,37 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Karaté-E30613?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzUwLjggMzIyLjVzLTI4LjctNi41LTYxLjgtMjguMWwtNTcuNy01Ny4zIDQwLjMtODQuOSA3NS4yIDQwLjlMMjY5IDI3My44YzIyLjYgMTcuNyA0My44IDMwLjUgNDMuOCAzMC41bDM4LTE4LjItLjMgNTQuM2wtLjEtMTcuOVptLTI0Mi40LTM3LjZoNzcuOGwtNDkuOCA0MS42Yy0xOC4xIDE4LTE2LjUgNC44LTI4IDQuOFoiLz48L3N2Zz4=&logoColor=white"/>
+        <div class="animate-pulse" style="animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Karaté-E30613?style=for-the-badge&logoColor=white&logo=fist"/>
+        </div>
         <br />
         <b>Karaté</b>
         <br />
         18 ans de pratique
         <br />
-        (ceinture marron)
+        <span style="background: linear-gradient(to right, #8e44ad, #e74c3c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">(Ceinture marron)</span>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+        <div class="animate-bounce" style="animation: bounce 1s infinite;">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Gaming-5865F2?style=for-the-badge&logoColor=white&logo=controller"/>
+        </div>
         <br />
         <b>Gaming</b>
         <br />
         Modérateur d'une communauté
         <br />
-        de joueurs en ligne
+        <span style="background: linear-gradient(to right, #3498db, #2ecc71); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">de joueurs en ligne</span>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/-Yu--Gi--Oh-7C4DFF?style=for-the-badge&logo=konami&logoColor=white"/>
+        <div class="animate-spin" style="animation: spin 3s linear infinite;">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Yu--Gi--Oh-7C4DFF?style=for-the-badge&logoColor=white&logo=card-account-details"/>
+        </div>
         <br />
         <b>Yu-Gi-Oh</b>
         <br />
         Joueur niveau
         <br />
-        européen
+        <span style="background: linear-gradient(to right, #f1c40f, #e67e22); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">européen</span>
       </td>
     </tr>
   </table>
