@@ -1,76 +1,72 @@
-# Hello there! 👋
+# 👋 Bonjour, je suis Victor Dané
 
-<div align="center">
-  <img src="https://github.com/Kaowarstail/Kaowarstail/blob/main/hello_there.gif" alt="Hello There" width="480" height="240" />
-</div>
+## 💻 Développeur Full Stack | Architecte Logiciel | Passionné Tech
 
-# Victor Dané
-### #Datascience #Go #REST #IA
+![Banner](https://via.placeholder.com/1500x300/0553A1/ffffff?text=Victor+Dan%C3%A9+-+D%C3%A9veloppeur+Full+Stack)
 
-**DEVELOPPEUR FULLSTACK**  
-*À la recherche d'une alternance*  
-*(3 semaines en entreprise / 1 semaine à l'école)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-dané)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.dane92@gmail.com)
 
-### COORDONNÉES
-- 📍 92500 Rueil Malmaison
-- 📅 25 ans
-- 📧 victor.dane92@gmail.com
-- 📱 (+33)6 37 90 32 12
-- 🔗 LinkedIn: [/victor-dané](https://www.linkedin.com/in/victor-dané)
-- 🌐 Github: [/Kaowarstail](https://github.com/Kaowarstail)
+> _Développeur Full Stack avec expérience en architecture logicielle et méthodologies agiles, passionné par la création de solutions innovantes et performantes._
 
-### FORMATION
-- **2023-2025 — Mastère Apps & Cybersecurity,**  
-  *EEMI - Paris*  
-  *Cybersécurité, Modélisation (Data, Infrastructure), Quality Assurance, IA, Pen tests, Front/Back end*
+## 🛠️ Compétences Techniques
 
-- **2022-2023 — Bachelor Développement Web,**  
-  *EEMI - Paris*  
-  *Algorithmie, Go, Docker, iOS/Android, PHP, React, Datascience*  
-  *Projets réalisés :*  
-  - Site de gestion interne d'un parc de location de voitures et de chauffeurs.
-  - Création d'un site vitrine au sein d'une équipe pluridisciplinaire.
-  - Audit au sein d'une équipe pluridisciplinaire pour La Fondation Charles de Gaulle
+```javascript
+const victorSkills = {
+  languages: ["JavaScript", "TypeScript", "Go", "Python", "PHP", "C", "C#"],
+  frontend: ["Vue.js", "React", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+  backend: ["Node.js", "Express.js", "Symfony", "Laravel", "REST API", "WebSockets"],
+  databases: ["MariaDB", "PostgreSQL", "MySQL"],
+  devOps: ["Docker", "Kubernetes", "CI/CD", "Linux", "Git"],
+  methodologies: ["Agile", "Scrum Master", "Lean Management"]
+};
+```
 
-- **2017-2021 — Cycle d’ingénieur en informatique à l'EPITA,**  
-  *Kremlin Bicêtre*  
-  *Projets réalisés :*  
-  - Jeu vidéo développé sous Unity en C#
-  - Application de reconnaissance optique de caractères en C
-  - Création d'un shell en C
+## 🚀 Projets Phares
 
-### EXPÉRIENCE PROFESSIONNELLE
-- **Développeur Fullstack (Alternance) — OSP, Neuilly-sur-Seine**  
-  *OCTOBRE 2022 - SEPTEMBRE 2023*  
-  *Conception et amélioration des fonctionnalités des outils pour les différents services de l'entreprise (Laravel / Vuejs).*  
-  *Design de divers produits/documents internes.*
+### 🔹 Système temps réel de gestion d'aide
+- Développement d'une solution temps réel avec Node-RED et Vue.js
+- Utilisation de WebSockets pour la communication instantanée
+- Interface utilisateur intuitive et responsive
 
-- **Auxiliaire d’été — BNP Paribas, Nanterre**  
-  *AOÛT 2018*  
-  *Gestion des saisies de factures.*  
-  *Archivage de documents.*
+### 🔹 Solution Kanban pour environnement Lean
+- Application web avec Express.js, Vue.js et MySQL
+- Optimisation des processus de travail en équipe
+- Visualisation intuitive des flux de travail
 
-- **Frimousse — castings**  
-  *Shooting photos, publicité TV et presse.*
+### 🔹 [En cours] Plus de projets à venir
+- Je travaille constamment sur de nouveaux projets - restez à l'écoute!
 
-### HARD SKILLS
-- C, C#
-- PHP, Sass, Symfony
-- Docker
-- Python
-- MariaDB, Go
-- React
-- Javascript
-- HTML, CSS, Laravel
-- Vue.js
-- Tailwind
-- Node.js
+## 💼 Expérience Professionnelle
 
-### AUTRES COMPÉTENCES
-- Anglais C1 (TOEIC : 950)
-- Allemand A2
-- Design Thinker
-- Permis B
+- **Développeur Full Stack** - *AIO, Pessac* (Déc. 2023 - Présent)  
+  Développement d'applications web innovantes, optimisation des performances front-end/back-end
 
-### CENTRE D’INTÉRÊTS
-- Karaté : 17 ans de pratique (ceinture marron).
+- **Développeur Full Stack** - *OSP, Neuilly-sur-Seine* (Oct. 2022 - Sept. 2023)  
+  Amélioration d'applications métiers, développement Laravel et Vue.js
+
+## 🎓 Formation
+
+- **Mastère Lead Développeur Full Stack** - *EEMI, Paris* (2023 - 2025)
+- **Bachelor Développement Web** - *EEMI, Paris* (2022 - 2023)
+- **Cycle d'ingénieur en informatique** - *EPITA, Kremlin-Bicêtre* (2017 - 2021)
+
+## 📊 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Kaowarstail&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaowarstail&layout=compact&theme=radical)
+
+## 🌐 Langues
+
+- 🇫🇷 Français (natif)
+- 🇬🇧 Anglais (C1, TOEIC 950)
+- 🇩🇪 Allemand (A2)
+
+## ⚡ Fun Facts
+
+- 🥋 Pratiquant de karaté depuis 18 ans (ceinture marron)
+- 🎮 Gestionnaire et modérateur d'une communauté de joueurs en ligne
+- 🎴 Joueur de Yu-Gi-Oh au niveau européen
+
+---
+*N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou question!*
