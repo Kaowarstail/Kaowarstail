@@ -154,7 +154,7 @@
     </tr>
     <tr>
       <td>
-        <img align="left" width="64" height="64" src="https://img.icons8.com/color/64/000000/developer--v2.png"/>
+        <img align="left" width="64" height="64" src="https://media.licdn.com/dms/image/v2/D4E0BAQF-B4C1vhc4uQ/company-logo_200_200/company-logo_200_200/0/1693413200811/carbone_farmers_logo?e=2147483647&v=beta&t=hsLvp_Tb0nHXgm5JQ7p39BmhY0CAdb-QlGhIp6KmRrg"/>
       </td>
       <td>
         <h3>AIO, Pessac</h3>
@@ -164,7 +164,7 @@
     </tr>
     <tr>
       <td>
-        <img align="left" width="64" height="64" src="https://img.icons8.com/color/64/000000/code.png"/>
+        <img align="left" width="64" height="64" src="https://media.licdn.com/dms/image/v2/C4D0BAQG0aC7pjpoKYw/company-logo_200_200/company-logo_200_200/0/1630501061587/osp__cie_logo?e=2147483647&v=beta&t=E_N3szZvB8N9cKb9keKbJG-8XE9ku09L0bR5OEllTDk"/>
       </td>
       <td>
         <h3>OSP, Neuilly-sur-Seine</h3>
