@@ -144,11 +144,21 @@
   <table>
     <tr>
       <td>
+        <img align="left" width="64" height="64" src="https://media.licdn.com/dms/image/v2/D4E0BAQF-B4C1vhc4uQ/company-logo_200_200/company-logo_200_200/0/1693413200811/carbone_farmers_logo?e=2147483647&v=beta&t=hsLvp_Tb0nHXgm5JQ7p39BmhY0CAdb-QlGhIp6KmRrg"/>
+      </td>
+      <td>
+        <h3>Carbone Farmers, Paris</h3>
+        <p>Développeur Full Stack (CDI) | Sept. 2025 - Présent</p>
+        <p>Développement d'outils web interne</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img align="left" width="64" height="64" src="https://img.icons8.com/color/64/000000/developer--v2.png"/>
       </td>
       <td>
         <h3>AIO, Pessac</h3>
-        <p>Développeur Full Stack (Alternance) | Déc. 2023 - Présent</p>
+        <p>Développeur Full Stack (Alternance) | Déc. 2023 - Août 2025</p>
         <p>Développement d'applications web innovantes, optimisation des performances front-end/back-end</p>
       </td>
     </tr>
