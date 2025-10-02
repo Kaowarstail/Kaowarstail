@@ -154,7 +154,7 @@
     </tr>
     <tr>
       <td>
-        <img align="left" width="64" height="64" src="https://media.licdn.com/dms/image/v2/D4E0BAQF-B4C1vhc4uQ/company-logo_200_200/company-logo_200_200/0/1693413200811/carbone_farmers_logo?e=2147483647&v=beta&t=hsLvp_Tb0nHXgm5JQ7p39BmhY0CAdb-QlGhIp6KmRrg"/>
+        <img align="left" width="64" height="64" src="https://media.licdn.com/dms/image/v2/C4D0BAQHfivHn3P30EQ/company-logo_200_200/company-logo_200_200/0/1630568836714/aio_karakuri_logo?e=2147483647&v=beta&t=qO5of4i9jFRF6L5NM5ZV7CtuMQ2pPnsFJr9u_HGq9t4"/>
       </td>
       <td>
         <h3>AIO, Pessac</h3>
