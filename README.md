@@ -224,7 +224,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Français-Natif-blue?style=for-the-badge&logo=france&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anglais-C1_(TOEIC_950)-red?style=for-the-badge&logo=united-kingdom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anglais-C1_(TOEIC_970)-red?style=for-the-badge&logo=united-kingdom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Allemand-A2-yellow?style=for-the-badge&logo=germany&logoColor=white"/>
 </div>
 
